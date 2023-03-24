@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="maven-antrun-" default="main">
+  <target name="main">
+    <ant antfile="src/test/resources/antunit/report-bad-configurations.xml" inheritRefs="false" inheritAll="false">
+      <property name="jar.name" location="/Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/target/classes" />
+      <property name="base.dir" location="/Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks" />
+      <property name="antunit.jar.name" location="/Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/target/dependencies/ant-antunit.jar" />
+      <property name="test.skipped" value="${maven.test.skip}" />
+      <property name="test.classpath" refid="maven.test.classpath" />
+    </ant>
+    <ant antfile="src/test/resources/antunit/report-normal-operation.xml" inheritRefs="false" inheritAll="false">
+      <property name="jar.name" location="/Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/target/classes" />
+      <property name="base.dir" location="/Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks" />
+      <property name="antunit.jar.name" location="/Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/target/dependencies/ant-antunit.jar" />
+      <property name="test.skipped" value="${maven.test.skip}" />
+      <property name="test.classpath" refid="maven.test.classpath" />
+    </ant>
+  </target>
+</project>

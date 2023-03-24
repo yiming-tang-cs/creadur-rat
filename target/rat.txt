@@ -1,0 +1,46 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2023-03-24T15:59:24-04:00
+
+Notes: 5
+Binaries: 0
+Archives: 0
+Standards: 15
+
+Apache Licensed: 15
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  N     LICENSE
+  N     RELEASE-NOTES.txt
+  AL    pom.xml
+  N     RELEASE_NOTES.txt
+  N     NOTICE
+  AL    README.md
+  AL    ant-task-examples.xml
+  AL    .github/workflows/maven.yml
+  AL    .github/dependabot.yml
+  AL    Jenkinsfile
+  N     README.txt
+  AL    src/python/recursive-rat.py
+  AL    src/changes/release-notes.vm
+  AL    src/changes/changes.xml
+  AL    src/site/resources/css/site.css
+  AL    src/site/resources/download_rat.cgi
+  AL    src/site/xdoc/download_rat.xml.vm
+  AL    src/site/apt/index.apt.vm
+  AL    src/site/apt/site-publish.apt
+  AL    src/site/site.xml
+ 
+*****************************************************

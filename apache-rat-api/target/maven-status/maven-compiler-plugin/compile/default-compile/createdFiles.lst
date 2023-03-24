@@ -1,0 +1,3 @@
+org/apache/rat/api/domain/LicenseFamilyBuilder.class
+org/apache/rat/api/domain/LicenseFamily.class
+org/apache/rat/api/domain/RatLicenseFamily.class

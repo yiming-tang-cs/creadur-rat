@@ -1,0 +1,9 @@
+org/apache/rat/anttasks/SubstringLicenseMatcher.class
+org/apache/rat/anttasks/FullTextLicenseMatcher.class
+org/apache/rat/anttasks/ResourceCollectionContainer$ResourceDocument.class
+org/apache/rat/anttasks/ResourceCollectionContainer.class
+org/apache/rat/anttasks/Report.class
+org/apache/rat/anttasks/Report$AddLicenseHeaders.class
+org/apache/rat/anttasks/ResourceCollectionContainer$1.class
+org/apache/rat/anttasks/SubstringLicenseMatcher$Pattern.class
+org/apache/rat/anttasks/Report$Format.class

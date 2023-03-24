@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0.004" tests="33" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="18"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-api/target/test-classes:/Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-api/target/classes:/Users/yimingtang/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar:/Users/yimingtang/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/yimingtang/.m2/repository/org/hamcrest/hamcrest-library/2.2/hamcrest-library-2.2.jar:/Users/yimingtang/.m2/repository/org/mockito/mockito-core/4.11.0/mockito-core-4.11.0.jar:/Users/yimingtang/.m2/repository/net/bytebuddy/byte-buddy/1.12.19/byte-buddy-1.12.19.jar:/Users/yimingtang/.m2/repository/net/bytebuddy/byte-buddy-agent/1.12.19/byte-buddy-agent-1.12.19.jar:/Users/yimingtang/.m2/repository/org/objenesis/objenesis/3.3/objenesis-3.3.jar:"/>
+    <property name="java.vm.vendor" value="Homebrew"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://github.com/Homebrew/homebrew-core/issues"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="java.vm.specification.version" value="18"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk/18.0.1.1/libexec/openjdk.jdk/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-api/target/surefire/surefirebooter4495118123110385040.jar /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-api/target/surefire 2023-03-24T15-59-01_552-jvmRun1 surefire16609631706508194179tmp surefire_08460113554479898048tmp"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-api/target/test-classes:/Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-api/target/classes:/Users/yimingtang/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar:/Users/yimingtang/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/yimingtang/.m2/repository/org/hamcrest/hamcrest-library/2.2/hamcrest-library-2.2.jar:/Users/yimingtang/.m2/repository/org/mockito/mockito-core/4.11.0/mockito-core-4.11.0.jar:/Users/yimingtang/.m2/repository/net/bytebuddy/byte-buddy/1.12.19/byte-buddy-1.12.19.jar:/Users/yimingtang/.m2/repository/net/bytebuddy/byte-buddy-agent/1.12.19/byte-buddy-agent-1.12.19.jar:/Users/yimingtang/.m2/repository/org/objenesis/objenesis/3.3/objenesis-3.3.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/yimingtang"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-04-22"/>
+    <property name="java.home" value="/opt/homebrew/Cellar/openjdk/18.0.1.1/libexec/openjdk.jdk/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-api"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="apple.awt.application.name" value="ForkedBooter"/>
+    <property name="surefire.real.class.path" value="/Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-api/target/surefire/surefirebooter4495118123110385040.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.runtime.version" value="18.0.1.1+0"/>
+    <property name="user.name" value="yimingtang"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="12.2.1"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Homebrew"/>
+    <property name="localRepository" value="/Users/yimingtang/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/Homebrew/homebrew-core/issues"/>
+    <property name="java.io.tmpdir" value="/var/folders/6w/qrh4swfj7bz2f9hskb9hqh080000gn/T/"/>
+    <property name="java.version" value="18.0.1.1"/>
+    <property name="user.dir" value="/Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-api"/>
+    <property name="os.arch" value="aarch64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/yimingtang/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Homebrew"/>
+    <property name="java.vm.version" value="18.0.1.1+0"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.class.version" value="62.0"/>
+  </properties>
+  <testcase name="testGPL2LicenseFamilyNotes" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testGPL2LicenseFamilyName" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testOASISLicenseFamilyNotes" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testTMF854LicenseFamilyCategory" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testOASISLicenseFamilyName" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testGPL1LicenseFamilyNotes" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testGPL1LicenseFamilyName" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testW3CDocLicenseFamilyCategory" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testW3CDocLicenseFamilyNotes" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0.001"/>
+  <testcase name="testGPL2LicenseFamilyCategory" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testW3CDocLicenseFamilyName" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testCDDL1LicenseFamilyCategory" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testW3CLicenseFamilyCategory" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testDOJOLicenseFamilyCategory" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0.001"/>
+  <testcase name="testMITLicenseFamilyName" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testAPACHELicenseFamilyCategory" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testAPACHELicenseFamilyNotes" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testDOJOLicenseFamilyName" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testCDDL1LicenseFamilyName" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testTMF854LicenseFamilyNotes" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testOASISLicenseFamilyCategory" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testGPL3LicenseFamilyNotes" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testTMF854LicenseFamilyName" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testGPL3LicenseFamilyName" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testDOJOLicenseFamilyNotes" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testW3CLicenseFamilyNotes" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testW3CLicenseFamilyName" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testCDDL1LicenseFamilyNotes" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testGPL1LicenseFamilyCategory" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testMITLicenseFamilyNotes" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testAPACHELicenseFamilyName" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testGPL3LicenseFamilyCategory" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+  <testcase name="testMITLicenseFamilyCategory" classname="org.apache.rat.api.domain.RatLicenseFamilyTest" time="0"/>
+</testsuite>

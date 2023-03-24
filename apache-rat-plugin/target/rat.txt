@@ -1,0 +1,70 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2023-03-24T15:59:24-04:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 44
+
+Apache Licensed: 44
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/pom.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/test/resources/unit/it1/pom.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/test/resources/unit/it4/pom.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/test/resources/unit/it3/pom.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/test/resources/unit/it2/pom.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/test/java/org/apache/rat/mp/util/ScmIgnoreParserTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/test/java/org/apache/rat/mp/util/ExclusionHelperTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/test/java/org/apache/rat/mp/RatCheckMojoTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/test/java/org/apache/rat/mp/RatTestHelpers.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/changes/changes.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/it/settings.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/it/it1/pom.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/it/it1/verify.groovy
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/it/it1/invoker.properties
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/it/it4_RAT-168/pom.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/it/it4_RAT-168/verify.groovy
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/it/it4_RAT-168/invoker.properties
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/it/RAT-268/module3/pom.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/it/RAT-268/module2/module2.pom
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/it/RAT-268/pom.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/it/RAT-268/invoker.properties
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/it/RAT-268/module1/pom.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/site/resources/css/site.css
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/site/apt/examples/custom-license.apt.vm
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/site/apt/examples/verify.apt.vm
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/site/apt/examples/basic.apt.vm
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/site/apt/examples/site.apt.vm
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/site/apt/usage.apt.vm
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/site/apt/index.apt
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/site/fml/faq.fml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/site/site.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/main/filtered-resources/org/apache/rat/mp/rat-report.properties
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/main/resources/org/apache/rat/mp/package.html
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/main/resources/META-INF/m2e/lifecycle-mapping-metadata.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/main/java/org/apache/rat/mp/HeaderMatcherSpecification.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/main/java/org/apache/rat/mp/util/ConfigurationHelper.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/main/java/org/apache/rat/mp/util/ExclusionHelper.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/main/java/org/apache/rat/mp/util/ScmIgnoreParser.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/main/java/org/apache/rat/mp/LicenseFamilySpecification.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/main/java/org/apache/rat/mp/RatReportMojo.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/main/java/org/apache/rat/mp/FilesReportable.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/main/java/org/apache/rat/mp/RatCheckException.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/main/java/org/apache/rat/mp/AbstractRatMojo.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/main/java/org/apache/rat/mp/RatCheckMojo.java
+ 
+*****************************************************

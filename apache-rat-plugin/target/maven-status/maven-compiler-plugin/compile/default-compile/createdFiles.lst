@@ -1,0 +1,13 @@
+org/apache/rat/mp/RatReportMojo.class
+org/apache/rat/mp/HeaderMatcherSpecification.class
+org/apache/rat/mp/AbstractRatMojo.class
+org/apache/rat/mp/FilesReportable$FileDocument.class
+org/apache/rat/mp/LicenseFamilySpecification.class
+org/apache/rat/mp/RatCheckMojo.class
+org/apache/rat/mp/FilesReportable$1.class
+org/apache/rat/mp/util/ConfigurationHelper.class
+org/apache/rat/mp/RatCheckException.class
+org/apache/rat/apache_rat_plugin/HelpMojo.class
+org/apache/rat/mp/util/ExclusionHelper.class
+org/apache/rat/mp/util/ScmIgnoreParser.class
+org/apache/rat/mp/FilesReportable.class

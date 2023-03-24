@@ -1,0 +1,7 @@
+org/apache/rat/mp/util/ScmIgnoreParserTest.class
+org/apache/rat/mp/RatCheckMojoTest.class
+org/apache/rat/mp/RatTestHelpers$1.class
+org/apache/rat/mp/RatCheckMojoTest$1.class
+org/apache/rat/mp/RatTestHelpers$2.class
+org/apache/rat/mp/RatTestHelpers.class
+org/apache/rat/mp/util/ExclusionHelperTest.class

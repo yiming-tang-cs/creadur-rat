@@ -1,0 +1,15 @@
+<rat-report timestamp='2023-03-24T15:59:05-04:00'><resource name='/Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/test/resources/unit/it4/pom.xml'><header-sample></header-sample><header-type name='AL   '/><license-family name='Apache License Version 2.0'/><license-approval name='true'/><type name='standard'/></resource><resource name='/Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-plugin/src/test/resources/unit/it4/iso-8859-1.html'><header-sample>&lt;!DOCTYPE html&gt;
+&lt;!--
+Demodata with ISO-8859-1 encoded characters:
+The german umlauts: äöüÄÖÜß
+--&gt;
+&lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset="windows-1252" /&gt;
+        &lt;title&gt;Demo Data&lt;/title&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        
+    &lt;/body&gt;
+&lt;/html&gt;
+</header-sample><header-type name='?????'/><license-family name='?????'/><license-approval name='false'/><type name='standard'/></resource></rat-report>

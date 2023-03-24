@@ -1,0 +1,81 @@
+[INFO] Scanning for projects...
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO] 
+[INFO] rat268                                                             [pom]
+[INFO] module1                                                            [jar]
+[INFO] module2                                                            [jar]
+[INFO] module3                                                            [jar]
+[INFO] 
+[INFO] ---------------------< org.apache.rat.test:rat268 >---------------------
+[INFO] Building rat268 1.0                                                [1/4]
+[INFO] --------------------------------[ pom ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ rat268 ---
+[INFO] 
+[INFO] --- apache-rat-plugin:0.16-SNAPSHOT:check (default-cli) @ rat268 ---
+[INFO] Enabled default license matchers.
+[INFO] Will parse SCM ignores for exclusions...
+[INFO] Finished adding exclusions from SCM ignore files.
+[INFO] 65 implicit excludes.
+[INFO] 1 explicit excludes.
+[INFO] 2 resources included
+[INFO] Rat check: Summary over all files. Unapproved: 0, unknown: 0, generated: 0, approved: 2 licenses.
+[INFO] 
+[INFO] --------------------< org.apache.rat.test:module1 >---------------------
+[INFO] Building module1 1.0                                               [2/4]
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ module1 ---
+[INFO] 
+[INFO] --- apache-rat-plugin:0.16-SNAPSHOT:check (default-cli) @ module1 ---
+[INFO] Enabled default license matchers.
+[INFO] Will parse SCM ignores for exclusions...
+[INFO] Finished adding exclusions from SCM ignore files.
+[INFO] 62 implicit excludes.
+[INFO] 1 explicit excludes.
+[INFO] 1 resources included
+[INFO] Rat check: Summary over all files. Unapproved: 0, unknown: 0, generated: 0, approved: 1 licenses.
+[INFO] 
+[INFO] --------------------< org.apache.rat.test:module2 >---------------------
+[INFO] Building module2 1.0                                               [3/4]
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ module2 ---
+[INFO] 
+[INFO] --- apache-rat-plugin:0.16-SNAPSHOT:check (default-cli) @ module2 ---
+[INFO] Enabled default license matchers.
+[INFO] Will parse SCM ignores for exclusions...
+[INFO] Finished adding exclusions from SCM ignore files.
+[INFO] 62 implicit excludes.
+[INFO] 1 explicit excludes.
+[INFO] 1 resources included
+[INFO] Rat check: Summary over all files. Unapproved: 0, unknown: 0, generated: 0, approved: 1 licenses.
+[INFO] 
+[INFO] --------------------< org.apache.rat.test:module3 >---------------------
+[INFO] Building module3 1.0                                               [4/4]
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ module3 ---
+[INFO] 
+[INFO] --- apache-rat-plugin:0.16-SNAPSHOT:check (default-cli) @ module3 ---
+[INFO] Enabled default license matchers.
+[INFO] Will parse SCM ignores for exclusions...
+[INFO] Finished adding exclusions from SCM ignore files.
+[INFO] 62 implicit excludes.
+[INFO] 1 explicit excludes.
+[INFO] 1 resources included
+[INFO] Rat check: Summary over all files. Unapproved: 0, unknown: 0, generated: 0, approved: 1 licenses.
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary for rat268 1.0:
+[INFO] 
+[INFO] rat268 ............................................. SUCCESS [  0.323 s]
+[INFO] module1 ............................................ SUCCESS [  0.016 s]
+[INFO] module2 ............................................ SUCCESS [  0.012 s]
+[INFO] module3 ............................................ SUCCESS [  0.030 s]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  0.441 s
+[INFO] Finished at: 2023-03-24T15:59:11-04:00
+[INFO] ------------------------------------------------------------------------

@@ -1,0 +1,4 @@
+org/apache/rat/anttasks/ReportTest.class
+org/apache/rat/anttasks/AbstractRatAntTaskTest.class
+org/example/Matcher.class
+org/example/LicenseFamily.class

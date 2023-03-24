@@ -1,0 +1,199 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2023-03-24T15:59:24-04:00
+
+Notes: 2
+Binaries: 2
+Archives: 2
+Standards: 161
+
+Apache Licensed: 158
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+Archives:
+
+ + /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/resources/artifacts/dummy.tar.gz
+ 
+ + /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/resources/elements/dummy.jar
+ 
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/pom.xml
+  OASIS /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/resources/oasis/good/oasisgood1.txt
+  A     /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/resources/artifacts/dummy.tar.gz
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/resources/appliedAL20/good/aal20good1.txt
+   /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/resources/javadocs/index.html
+   /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/resources/javadocs/ArchiveElement.html
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/resources/javadocs/notjavadoc.html
+  N     /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/resources/elements/LICENSE
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/resources/elements/Xml.xml
+  A     /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/resources/elements/dummy.jar
+  N     /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/resources/elements/NOTICE
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/resources/elements/Text.txt
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/resources/elements/buildr.rb
+  B     /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/resources/elements/Image.png
+  B     /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/resources/binaries/UTF16_with_signature.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/resources/binaries/UTF8_with_signature.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/analysis/license/DirectoryScanner.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/analysis/license/MITLicenseTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/analysis/license/W3CLicenseTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/analysis/license/ApacheSoftwareLicense20Test.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/analysis/license/MockStandardLicense.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/analysis/license/AppliedApacheSoftwareLicense20Test.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/analysis/license/CDDL1LicenseTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/analysis/license/CopyrightHeaderTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/analysis/license/GPL123LicenseTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/analysis/license/ApacheSoftwareLicense20ShortTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/analysis/license/OASISLicenseTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/analysis/util/MatcherMultiplexerTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/analysis/AnalyserFactoryTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/analysis/HeaderCheckWorkerTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/analysis/MockLicenseMatcher.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/analysis/generation/GeneratedLicenseNotRequiredTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/analysis/generation/JavaDocLicenseNotRequiredTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/test/utils/Resources.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/config/ReportFormatTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/config/SourceCodeManagementSystemsTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/config/AddLicenseHeadersTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/config/ConfigurationUtilTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/ReportTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/annotation/TestLicenseAppender.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/document/impl/util/DocumentAnalyserMultiplexerTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/document/impl/guesser/GuessUtilsTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/document/impl/guesser/BinaryGuesserTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/document/impl/guesser/ArchiveGuesserTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/document/impl/guesser/NoteGuesserTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/document/impl/SingularFileDocumentTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/document/ToNameTransformerTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/document/MockLocation.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/document/MockDocumentAnalyser.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/document/MockDocument.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/ReportTransformerTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/report/xml/XmlUtils.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/report/xml/writer/impl/base/XmlWriterTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/report/xml/writer/XmlWriterUtilsTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/report/xml/MockXmlWriter.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/report/xml/XmlReportTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/report/xml/XmlReportFactoryTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/report/claim/impl/xml/MockClaimReporter.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/header/HeaderMatcherWithBeansTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/header/ArrayCharFilterTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/header/FilteringSequenceFactoryTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/header/SimpleCharFilter.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/header/HeaderMatcherTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/walker/FileNameComparatorTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/test/java/org/apache/rat/policy/DefaultPolicyTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/site/resources/css/site.css
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/site/apt/index.apt.vm
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/site/site.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/resources/org/apache/rat/plain-rat.xsl
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/resources/org/apache/rat/unapproved-licenses.xsl
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/IHeaderMatcher.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/license/DojoLicenseHeader.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/license/GPL1License.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/license/W3CDocLicense.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/license/AppliedApacheSoftwareLicense20.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/license/BaseLicense.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/license/GPL2License.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/license/CDDL1License.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/license/CopyrightHeader.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/license/OASISLicense.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/license/SimplePatternBasedLicense.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/license/FullTextMatchingLicense.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/license/TMF854LicenseHeader.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/license/MITLicense.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/license/GPL3License.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/license/W3CLicense.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/license/ApacheSoftwareLicense20.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/util/HeaderMatcherMultiplexer.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/RatHeaderAnalysisException.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/HeaderCheckWorker.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/RatReportAnalysisResultException.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/DocumentHeaderAnalyser.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/DefaultAnalyserFactory.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/generation/GeneratedLicenseNotRequired.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/analysis/generation/JavaDocLicenseNotRequired.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/license/SimpleLicenseFamily.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/license/GPL1LicenseFamily.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/license/OASISLicenseFamily.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/license/CDDL1LicenseFamily.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/license/Apache20LicenseFamily.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/license/ILicenseFamily.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/license/W3CDocumentLicenseFamily.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/license/GPL3LicenseFamily.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/license/GPL2LicenseFamily.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/license/MITLicenseFamily.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/license/W3CSoftwareLicenseFamily.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/license/ModifiedBSDLicenseFamily.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/license/AcademicFree21LicenseFamily.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/ReportTransformer.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/config/package.html
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/config/ReportFormat.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/config/AddLicenseHeaders.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/config/ConfigurationUtil.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/config/SourceCodeManagementSystems.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/annotation/AbstractLicenseAppender.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/annotation/ApacheV2LicenseAppender.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/document/ToNameTransformer.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/document/impl/ArchiveEntryDocument.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/document/impl/AbstractMonolithicDocument.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/document/impl/DocumentImplUtils.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/document/impl/FileDocument.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/document/impl/util/DocumentAnalyserMultiplexer.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/document/impl/guesser/NoteGuesser.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/document/impl/guesser/ArchiveGuesser.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/document/impl/guesser/BinaryGuesser.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/document/impl/guesser/GuessUtils.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/document/impl/MonolithicFileDocument.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/document/IDocumentAnalyser.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/document/UnsuitableDocumentException.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/document/RatDocumentAnalysisException.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/document/CompositeDocumentException.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/ReportConfiguration.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/ReportFailedRuntimeException.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/api/MimeTyper.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/api/ContentType.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/api/package.html
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/api/Document.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/api/RatException.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/api/MetaData.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/report/IReportable.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/report/xml/writer/impl/base/XmlWriter.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/report/xml/writer/IXmlWriter.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/report/xml/writer/OperationNotAllowedException.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/report/xml/writer/XmlWriterUtils.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/report/xml/writer/InvalidXmlException.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/report/xml/XmlReportFactory.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/report/RatReport.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/report/AbstractReport.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/report/claim/impl/ClaimAggregator.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/report/claim/impl/xml/SimpleXmlClaimReporter.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/report/claim/impl/AbstractClaimReporter.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/report/claim/util/ClaimReporterMultiplexer.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/report/claim/util/LicenseAddingReport.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/report/claim/ClaimStatistic.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/Report.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/Defaults.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/header/HeaderMatcher.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/header/HeaderBean.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/header/CharFilter.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/header/FilteringSequenceFactory.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/header/LineNumberReader.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/header/ArrayCharFilter.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/walker/DirectoryWalker.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/walker/Walker.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/walker/FileNameComparator.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/walker/ArchiveWalker.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-core/src/main/java/org/apache/rat/policy/DefaultPolicy.java
+ 
+*****************************************************

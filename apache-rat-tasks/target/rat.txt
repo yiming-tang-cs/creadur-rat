@@ -1,0 +1,48 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2023-03-24T15:59:25-04:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 22
+
+Apache Licensed: 22
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/pom.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/run-antunit.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/src/test/resources/antunit/report-normal-operation.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/src/test/resources/antunit/report-bad-configurations.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/src/test/resources/antunit/build.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/src/test/resources/antunit/report-junit.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/src/test/java/org/example/Matcher.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/src/test/java/org/example/LicenseFamily.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/src/test/java/org/apache/rat/anttasks/ReportTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/src/test/java/org/apache/rat/anttasks/AbstractRatAntTaskTest.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/src/site/resources/css/site.css
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/src/site/apt/types.apt
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/src/site/apt/report.apt
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/src/site/apt/examples/basic.apt.vm
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/src/site/apt/examples/custom.apt
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/src/site/apt/index.apt
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/src/site/site.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/src/main/resources/org/apache/rat/anttasks/antlib.xml
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/src/main/java/org/apache/rat/anttasks/FullTextLicenseMatcher.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/src/main/java/org/apache/rat/anttasks/SubstringLicenseMatcher.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/src/main/java/org/apache/rat/anttasks/ResourceCollectionContainer.java
+  AL    /Users/yimingtang/Documents/subjects/creadur-rat/apache-rat-tasks/src/main/java/org/apache/rat/anttasks/Report.java
+ 
+*****************************************************

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.rat</groupId>
+  <artifactId>apache-rat-plugin</artifactId>
+  <versioning>
+    <latest>0.16-SNAPSHOT</latest>
+    <versions>
+      <version>0.16-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230324195859</lastUpdated>
+  </versioning>
+</metadata>
